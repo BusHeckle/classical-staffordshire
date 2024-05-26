@@ -1,0 +1,15 @@
+body {
+    background-color: #36A9D5;
+    background-image: linear-gradient(to right, #36a9d5 , #207697);
+    color: #EEEEEE;
+    font-family: "Baskerville", serif;
+}
+
+#content {
+    width: 90%;
+    margin: 0 auto;
+}
+
+#title {
+    
+}
